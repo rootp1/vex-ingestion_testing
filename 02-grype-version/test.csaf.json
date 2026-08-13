@@ -1,0 +1,60 @@
+{
+  "document": {
+    "category": "csaf_vex",
+    "csaf_version": "2.0",
+    "publisher": {
+      "category": "vendor",
+      "name": "vex-ingestion-testing",
+      "namespace": "https://example.com"
+    },
+    "title": "Test CSAF VEX Document",
+    "tracking": {
+      "current_release_date": "2026-08-14T00:00:00.000Z",
+      "id": "TEST-CSAF-0001",
+      "initial_release_date": "2026-08-14T00:00:00.000Z",
+      "revision_history": [
+        { "date": "2026-08-14T00:00:00.000Z", "number": "1", "summary": "Initial version." }
+      ],
+      "status": "final",
+      "version": "1"
+    }
+  },
+  "product_tree": {
+    "branches": [
+      {
+        "branches": [
+          {
+            "branches": [
+              {
+                "category": "product_version",
+                "name": "1.2.4-r3",
+                "product": {
+                  "name": "musl 1.2.4-r3",
+                  "product_id": "CSAFPID-MUSL-0001",
+                  "product_identification_helper": {
+                    "purl": "pkg:apk/alpine/musl@1.2.4-r3?arch=aarch64&distro=alpine-3.18.12"
+                  }
+                }
+              }
+            ],
+            "category": "product_name",
+            "name": "musl"
+          }
+        ],
+        "category": "vendor",
+        "name": "Alpine"
+      }
+    ]
+  },
+  "vulnerabilities": [
+    {
+      "cve": "CVE-2026-40200",
+      "notes": [
+        { "category": "description", "text": "Test not_affected statement.", "title": "CVE description" }
+      ],
+      "product_status": {
+        "known_not_affected": ["CSAFPID-MUSL-0001"]
+      }
+    }
+  ]
+}

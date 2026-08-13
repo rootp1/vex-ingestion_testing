@@ -1,0 +1,41 @@
+=== Red Hat CSAF/VEX (samples/redhat_*.json) ===
+samples/redhat_2025_cve-2025-30204.json
+  size_bytes=34800785
+  cve=CVE-2025-30204
+  product_status_counts={'fixed': 3850, 'known_affected': 66, 'known_not_affected': 11715} (total=15631 product refs)
+  remediations=109 threats=1
+samples/redhat_2025_cve-2025-31936.json
+  size_bytes=18201
+  cve=CVE-2025-31936
+  product_status_counts={'known_affected': 10} (total=10 product refs)
+  remediations=2 threats=1
+samples/redhat_2025_cve-2025-66418.json
+  size_bytes=8973404
+  cve=CVE-2025-66418
+  product_status_counts={'fixed': 1941, 'known_affected': 413, 'known_not_affected': 2590, 'under_investigation': 1} (total=4945 product refs)
+  remediations=99 threats=2
+samples/redhat_2026_cve-2026-41603.json
+  size_bytes=1239134
+  cve=CVE-2026-41603
+  product_status_counts={'fixed': 36, 'known_affected': 14, 'known_not_affected': 438} (total=488 product refs)
+  remediations=9 threats=1
+samples/redhat_2026_cve-2026-42154.json
+  size_bytes=12045523
+  cve=CVE-2026-42154
+  product_status_counts={'fixed': 240, 'known_affected': 39, 'known_not_affected': 4524} (total=4803 product refs)
+  remediations=42 threats=1
+
+=== Wolfi/Chainguard package advisories (samples/wolfi_openssl.advisories.yaml) ===
+Format: Chainguard 'secfixes/advisories' YAML (schema-version 2.0.2),
+NOT raw OpenVEX. One file per PACKAGE (not per image, not per CVE),
+containing every advisory (CVE) ever filed against that package across
+all its historical versions. OpenVEX is generated on-demand from this
+data by `wolfictl advisory` tooling -- it is not published as a static
+OpenVEX feed.
+
+=== Wolfi aggregate security.json (samples/wolfi_security.json) ===
+packages_in_file=1449
+Shape: ONE file for the entire Wolfi repo, containing every package,
+each with a secfixes map keyed by package version -> list of CVE/GHSA ids.
+This is the opposite extreme from Red Hat: Red Hat = 1 file per CVE across
+all products; Wolfi = 1 file for the whole distro across all packages.
