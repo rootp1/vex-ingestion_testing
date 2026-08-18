@@ -1,0 +1,1041 @@
+{
+  "packages": [
+    {
+      "id": "pkg:pypi/aiohttp",
+      "location": "pypi/aiohttp.openvex.json",
+      "modified": "2026-07-14T13:19:18.421Z"
+    },
+    {
+      "id": "pkg:pypi/authlib",
+      "location": "pypi/authlib.openvex.json",
+      "modified": "2025-10-23T06:01:32.648Z"
+    },
+    {
+      "id": "pkg:pypi/cairosvg",
+      "location": "pypi/cairosvg.openvex.json",
+      "modified": "2025-11-01T06:02:11.368Z"
+    },
+    {
+      "id": "pkg:pypi/celery",
+      "location": "pypi/celery.openvex.json",
+      "modified": "2025-10-23T06:01:32.917Z"
+    },
+    {
+      "id": "pkg:pypi/certifi",
+      "location": "pypi/certifi.openvex.json",
+      "modified": "2025-10-23T06:01:32.326Z"
+    },
+    {
+      "id": "pkg:pypi/deepdiff",
+      "location": "pypi/deepdiff.openvex.json",
+      "modified": "2025-11-07T06:01:39.547Z"
+    },
+    {
+      "id": "pkg:pypi/django",
+      "location": "pypi/django.openvex.json",
+      "modified": "2025-10-23T06:01:33.162Z"
+    },
+    {
+      "id": "pkg:pypi/flask",
+      "location": "pypi/flask.openvex.json",
+      "modified": "2025-11-13T06:02:27.035Z"
+    },
+    {
+      "id": "pkg:pypi/gunicorn",
+      "location": "pypi/gunicorn.openvex.json",
+      "modified": "2025-10-23T06:01:32.364Z"
+    },
+    {
+      "id": "pkg:pypi/h11",
+      "location": "pypi/h11.openvex.json",
+      "modified": "2025-10-23T06:01:32.956Z"
+    },
+    {
+      "id": "pkg:pypi/joblib",
+      "location": "pypi/joblib.openvex.json",
+      "modified": "2025-10-23T06:01:33.201Z"
+    },
+    {
+      "id": "pkg:pypi/langchain-text-splitters",
+      "location": "pypi/langchain-text-splitters.openvex.json",
+      "modified": "2025-11-06T06:01:23.676Z"
+    },
+    {
+      "id": "pkg:pypi/mpmath",
+      "location": "pypi/mpmath.openvex.json",
+      "modified": "2025-10-23T06:01:32.683Z"
+    },
+    {
+      "id": "pkg:pypi/oauthlib",
+      "location": "pypi/oauthlib.openvex.json",
+      "modified": "2026-07-21T00:02:18.566Z"
+    },
+    {
+      "id": "pkg:pypi/onnx",
+      "location": "pypi/onnx.openvex.json",
+      "modified": "2026-06-25T06:02:59.106Z"
+    },
+    {
+      "id": "pkg:pypi/pillow",
+      "location": "pypi/pillow.openvex.json",
+      "modified": "2025-12-04T06:01:31.371Z"
+    },
+    {
+      "id": "pkg:pypi/py",
+      "location": "pypi/py.openvex.json",
+      "modified": "2025-11-15T06:02:08.159Z"
+    },
+    {
+      "id": "pkg:pypi/pycryptodome",
+      "location": "pypi/pycryptodome.openvex.json",
+      "modified": "2025-10-23T06:01:32.479Z"
+    },
+    {
+      "id": "pkg:pypi/pyjwt",
+      "location": "pypi/pyjwt.openvex.json",
+      "modified": "2026-07-23T21:01:46.463Z"
+    },
+    {
+      "id": "pkg:pypi/pyopenssl",
+      "location": "pypi/pyopenssl.openvex.json",
+      "modified": "2026-08-07T15:01:48.995Z"
+    },
+    {
+      "id": "pkg:pypi/python-multipart",
+      "location": "pypi/python-multipart.openvex.json",
+      "modified": "2025-10-23T06:01:32.874Z"
+    },
+    {
+      "id": "pkg:pypi/pyyaml",
+      "location": "pypi/pyyaml.openvex.json",
+      "modified": "2025-10-23T06:01:33.278Z"
+    },
+    {
+      "id": "pkg:pypi/redshift-connector",
+      "location": "pypi/redshift-connector.openvex.json",
+      "modified": "2025-11-08T06:01:43.449Z"
+    },
+    {
+      "id": "pkg:pypi/requests",
+      "location": "pypi/requests.openvex.json",
+      "modified": "2026-08-14T18:02:26.001Z"
+    },
+    {
+      "id": "pkg:pypi/setuptools",
+      "location": "pypi/setuptools.openvex.json",
+      "modified": "2025-12-17T06:01:29.722Z"
+    },
+    {
+      "id": "pkg:pypi/sqlparse",
+      "location": "pypi/sqlparse.openvex.json",
+      "modified": "2025-11-01T06:02:11.819Z"
+    },
+    {
+      "id": "pkg:pypi/starlette",
+      "location": "pypi/starlette.openvex.json",
+      "modified": "2025-12-08T06:01:35.095Z"
+    },
+    {
+      "id": "pkg:pypi/tornado",
+      "location": "pypi/tornado.openvex.json",
+      "modified": "2025-12-13T06:01:48.583Z"
+    },
+    {
+      "id": "pkg:pypi/ujson",
+      "location": "pypi/ujson.openvex.json",
+      "modified": "2026-05-19T06:02:50.724Z"
+    },
+    {
+      "id": "pkg:pypi/urllib3",
+      "location": "pypi/urllib3.openvex.json",
+      "modified": "2026-03-17T06:03:51.103Z"
+    },
+    {
+      "id": "pkg:pypi/virtualenv",
+      "location": "pypi/virtualenv.openvex.json",
+      "modified": "2025-11-15T06:02:08.54Z"
+    },
+    {
+      "id": "pkg:pypi/werkzeug",
+      "location": "pypi/werkzeug.openvex.json",
+      "modified": "2025-12-03T06:02:10.106Z"
+    },
+    {
+      "id": "pkg:pypi/wheel",
+      "location": "pypi/wheel.openvex.json",
+      "modified": "2026-05-16T06:02:40.029Z"
+    },
+    {
+      "id": "pkg:pypi/zipp",
+      "location": "pypi/zipp.openvex.json",
+      "modified": "2026-05-19T06:02:51.249Z"
+    },
+    {
+      "id": "pkg:maven/com.h2database:h2",
+      "location": "maven/com.h2database:h2.openvex.json",
+      "modified": "2026-07-14T15:01:56.617Z"
+    },
+    {
+      "id": "pkg:maven/com.h2database:h2database",
+      "location": "maven/com.h2database:h2database.openvex.json",
+      "modified": "2026-04-15T16:02:47.115Z"
+    },
+    {
+      "id": "pkg:maven/dom4j:dom4j",
+      "location": "maven/dom4j:dom4j.openvex.json",
+      "modified": "2026-07-15T15:02:03.127Z"
+    },
+    {
+      "id": "pkg:maven/log4j:log4j",
+      "location": "maven/log4j:log4j.openvex.json",
+      "modified": "2026-07-16T21:01:46.586Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j",
+      "location": "maven/org.apache.logging.log4j:log4j.openvex.json",
+      "modified": "2026-07-28T21:03:08.51Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-1.2-api",
+      "location": "maven/org.apache.logging.log4j:log4j-1.2-api.openvex.json",
+      "modified": "2026-07-28T21:03:08.258Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-api",
+      "location": "maven/org.apache.logging.log4j:log4j-api.openvex.json",
+      "modified": "2026-07-28T21:03:09.061Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-api-test",
+      "location": "maven/org.apache.logging.log4j:log4j-api-test.openvex.json",
+      "modified": "2026-07-28T21:03:07.539Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-appserver",
+      "location": "maven/org.apache.logging.log4j:log4j-appserver.openvex.json",
+      "modified": "2026-07-28T21:03:08.854Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-bom",
+      "location": "maven/org.apache.logging.log4j:log4j-bom.openvex.json",
+      "modified": "2026-07-28T21:03:09.123Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-cassandra",
+      "location": "maven/org.apache.logging.log4j:log4j-cassandra.openvex.json",
+      "modified": "2026-07-28T21:03:09.241Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-core",
+      "location": "maven/org.apache.logging.log4j:log4j-core.openvex.json",
+      "modified": "2026-07-28T21:03:07.79Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-core-test",
+      "location": "maven/org.apache.logging.log4j:log4j-core-test.openvex.json",
+      "modified": "2026-07-28T21:03:07.604Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-couchdb",
+      "location": "maven/org.apache.logging.log4j:log4j-couchdb.openvex.json",
+      "modified": "2026-07-28T21:03:09.305Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-docker",
+      "location": "maven/org.apache.logging.log4j:log4j-docker.openvex.json",
+      "modified": "2026-07-28T21:03:09.365Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-flume-ng",
+      "location": "maven/org.apache.logging.log4j:log4j-flume-ng.openvex.json",
+      "modified": "2026-07-28T18:02:17.517Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-iostreams",
+      "location": "maven/org.apache.logging.log4j:log4j-iostreams.openvex.json",
+      "modified": "2026-07-28T21:03:08.324Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jakarta-jms",
+      "location": "maven/org.apache.logging.log4j:log4j-jakarta-jms.openvex.json",
+      "modified": "2026-07-28T21:03:08.574Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jakarta-smtp",
+      "location": "maven/org.apache.logging.log4j:log4j-jakarta-smtp.openvex.json",
+      "modified": "2026-07-28T21:03:07.674Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jakarta-web",
+      "location": "maven/org.apache.logging.log4j:log4j-jakarta-web.openvex.json",
+      "modified": "2026-07-28T21:03:08.386Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jcl",
+      "location": "maven/org.apache.logging.log4j:log4j-jcl.openvex.json",
+      "modified": "2026-07-28T21:03:07.852Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jdbc-dbcp2",
+      "location": "maven/org.apache.logging.log4j:log4j-jdbc-dbcp2.openvex.json",
+      "modified": "2026-07-28T21:03:07.961Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jpa",
+      "location": "maven/org.apache.logging.log4j:log4j-jpa.openvex.json",
+      "modified": "2026-07-28T21:03:08.95Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jpl",
+      "location": "maven/org.apache.logging.log4j:log4j-jpl.openvex.json",
+      "modified": "2026-07-28T21:03:08.025Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-jul",
+      "location": "maven/org.apache.logging.log4j:log4j-jul.openvex.json",
+      "modified": "2026-07-28T21:03:09.428Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-kubernetes",
+      "location": "maven/org.apache.logging.log4j:log4j-kubernetes.openvex.json",
+      "modified": "2026-07-28T18:02:18.776Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-layout-template-json",
+      "location": "maven/org.apache.logging.log4j:log4j-layout-template-json.openvex.json",
+      "modified": "2026-07-28T21:03:09.488Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-mongodb",
+      "location": "maven/org.apache.logging.log4j:log4j-mongodb.openvex.json",
+      "modified": "2026-07-28T21:03:09.003Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-mongodb3",
+      "location": "maven/org.apache.logging.log4j:log4j-mongodb3.openvex.json",
+      "modified": "2026-07-28T18:02:20.177Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-mongodb4",
+      "location": "maven/org.apache.logging.log4j:log4j-mongodb4.openvex.json",
+      "modified": "2026-07-28T21:03:08.662Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-slf4j-impl",
+      "location": "maven/org.apache.logging.log4j:log4j-slf4j-impl.openvex.json",
+      "modified": "2026-07-28T21:03:07.451Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-slf4j2-impl",
+      "location": "maven/org.apache.logging.log4j:log4j-slf4j2-impl.openvex.json",
+      "modified": "2026-07-28T21:03:08.449Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-spring-boot",
+      "location": "maven/org.apache.logging.log4j:log4j-spring-boot.openvex.json",
+      "modified": "2026-07-28T21:03:08.725Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-spring-cloud-config-client",
+      "location": "maven/org.apache.logging.log4j:log4j-spring-cloud-config-client.openvex.json",
+      "modified": "2026-07-28T21:03:08.129Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-taglib",
+      "location": "maven/org.apache.logging.log4j:log4j-taglib.openvex.json",
+      "modified": "2026-07-28T21:03:08.19Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-to-jul",
+      "location": "maven/org.apache.logging.log4j:log4j-to-jul.openvex.json",
+      "modified": "2026-07-28T21:03:08.793Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-to-slf4j",
+      "location": "maven/org.apache.logging.log4j:log4j-to-slf4j.openvex.json",
+      "modified": "2026-07-28T21:03:07.734Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.logging.log4j:log4j-web",
+      "location": "maven/org.apache.logging.log4j:log4j-web.openvex.json",
+      "modified": "2026-07-28T21:03:09.183Z"
+    },
+    {
+      "id": "pkg:maven/org.apache.xmlbeans:xmlbeans",
+      "location": "maven/org.apache.xmlbeans:xmlbeans.openvex.json",
+      "modified": "2026-07-21T00:02:19.165Z"
+    },
+    {
+      "id": "pkg:maven/org.hsqldb:hsqldb",
+      "location": "maven/org.hsqldb:hsqldb.openvex.json",
+      "modified": "2026-07-27T21:03:09.765Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot.aot:org.springframework.boot.aot.gradle.plugin",
+      "location": "maven/org.springframework.boot.aot:org.springframework.boot.aot.gradle.plugin.openvex.json",
+      "modified": "2026-08-15T06:04:15.551Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:org.springframework.boot.gradle.plugin",
+      "location": "maven/org.springframework.boot:org.springframework.boot.gradle.plugin.openvex.json",
+      "modified": "2026-08-15T06:06:00.862Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot",
+      "location": "maven/org.springframework.boot:spring-boot.openvex.json",
+      "modified": "2026-08-15T06:03:12.916Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-actuator",
+      "location": "maven/org.springframework.boot:spring-boot-actuator.openvex.json",
+      "modified": "2026-08-15T06:07:11.378Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-actuator-autoconfigure",
+      "location": "maven/org.springframework.boot:spring-boot-actuator-autoconfigure.openvex.json",
+      "modified": "2026-08-15T06:02:41.767Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-antlib",
+      "location": "maven/org.springframework.boot:spring-boot-antlib.openvex.json",
+      "modified": "2026-08-15T06:06:06.077Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-autoconfigure",
+      "location": "maven/org.springframework.boot:spring-boot-autoconfigure.openvex.json",
+      "modified": "2026-08-15T06:06:35.538Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-autoconfigure-processor",
+      "location": "maven/org.springframework.boot:spring-boot-autoconfigure-processor.openvex.json",
+      "modified": "2026-08-15T06:03:27.198Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-buildpack-platform",
+      "location": "maven/org.springframework.boot:spring-boot-buildpack-platform.openvex.json",
+      "modified": "2026-08-15T06:07:23.02Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-cli",
+      "location": "maven/org.springframework.boot:spring-boot-cli.openvex.json",
+      "modified": "2026-08-15T06:03:57.725Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-configuration-metadata",
+      "location": "maven/org.springframework.boot:spring-boot-configuration-metadata.openvex.json",
+      "modified": "2026-08-15T06:06:38.938Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-configuration-processor",
+      "location": "maven/org.springframework.boot:spring-boot-configuration-processor.openvex.json",
+      "modified": "2026-08-15T06:07:26.622Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-dependencies",
+      "location": "maven/org.springframework.boot:spring-boot-dependencies.openvex.json",
+      "modified": "2026-08-15T06:05:03.613Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-devtools",
+      "location": "maven/org.springframework.boot:spring-boot-devtools.openvex.json",
+      "modified": "2026-08-15T06:05:27.13Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-docker-compose",
+      "location": "maven/org.springframework.boot:spring-boot-docker-compose.openvex.json",
+      "modified": "2026-08-15T06:02:20.741Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-gradle-plugin",
+      "location": "maven/org.springframework.boot:spring-boot-gradle-plugin.openvex.json",
+      "modified": "2026-08-15T06:04:41.979Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-jarmode-layertools",
+      "location": "maven/org.springframework.boot:spring-boot-jarmode-layertools.openvex.json",
+      "modified": "2026-08-15T06:03:30.953Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-jarmode-tools",
+      "location": "maven/org.springframework.boot:spring-boot-jarmode-tools.openvex.json",
+      "modified": "2026-08-10T21:06:46.329Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-loader",
+      "location": "maven/org.springframework.boot:spring-boot-loader.openvex.json",
+      "modified": "2026-08-15T06:04:46.462Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-loader-classic",
+      "location": "maven/org.springframework.boot:spring-boot-loader-classic.openvex.json",
+      "modified": "2026-08-15T06:02:21.814Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-loader-tools",
+      "location": "maven/org.springframework.boot:spring-boot-loader-tools.openvex.json",
+      "modified": "2026-08-15T06:05:07.944Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-maven-plugin",
+      "location": "maven/org.springframework.boot:spring-boot-maven-plugin.openvex.json",
+      "modified": "2026-08-15T06:06:11.441Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-parent",
+      "location": "maven/org.springframework.boot:spring-boot-parent.openvex.json",
+      "modified": "2026-08-15T06:06:15.705Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-properties-migrator",
+      "location": "maven/org.springframework.boot:spring-boot-properties-migrator.openvex.json",
+      "modified": "2026-08-15T06:02:45.128Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter",
+      "location": "maven/org.springframework.boot:spring-boot-starter.openvex.json",
+      "modified": "2026-08-15T06:02:25.481Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-activemq",
+      "location": "maven/org.springframework.boot:spring-boot-starter-activemq.openvex.json",
+      "modified": "2026-08-15T06:02:49.676Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-actuator",
+      "location": "maven/org.springframework.boot:spring-boot-starter-actuator.openvex.json",
+      "modified": "2026-08-15T06:05:43.3Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-amqp",
+      "location": "maven/org.springframework.boot:spring-boot-starter-amqp.openvex.json",
+      "modified": "2026-08-15T06:07:14.621Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-aop",
+      "location": "maven/org.springframework.boot:spring-boot-starter-aop.openvex.json",
+      "modified": "2026-08-15T06:06:43.234Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-artemis",
+      "location": "maven/org.springframework.boot:spring-boot-starter-artemis.openvex.json",
+      "modified": "2026-08-15T06:02:29.678Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-batch",
+      "location": "maven/org.springframework.boot:spring-boot-starter-batch.openvex.json",
+      "modified": "2026-08-15T06:02:52.79Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-cache",
+      "location": "maven/org.springframework.boot:spring-boot-starter-cache.openvex.json",
+      "modified": "2026-08-15T06:03:34.752Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-cassandra",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-cassandra.openvex.json",
+      "modified": "2026-08-15T06:03:38.679Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-cassandra-reactive",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-cassandra-reactive.openvex.json",
+      "modified": "2026-08-15T06:04:50.376Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-couchbase",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-couchbase.openvex.json",
+      "modified": "2026-08-15T06:07:18.846Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-couchbase-reactive",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-couchbase-reactive.openvex.json",
+      "modified": "2026-08-15T06:05:11.76Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-elasticsearch",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-elasticsearch.openvex.json",
+      "modified": "2026-08-15T06:03:42.68Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-jdbc",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-jdbc.openvex.json",
+      "modified": "2026-08-15T06:04:01.896Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-jpa",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-jpa.openvex.json",
+      "modified": "2026-08-15T06:05:46.847Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-ldap",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-ldap.openvex.json",
+      "modified": "2026-08-15T06:04:19.287Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-mongodb",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-mongodb.openvex.json",
+      "modified": "2026-08-15T06:03:16.687Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-mongodb-reactive",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-mongodb-reactive.openvex.json",
+      "modified": "2026-08-15T06:03:46.189Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-neo4j",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-neo4j.openvex.json",
+      "modified": "2026-08-15T06:04:23.533Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-r2dbc",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-r2dbc.openvex.json",
+      "modified": "2026-08-15T06:05:16.011Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-redis",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-redis.openvex.json",
+      "modified": "2026-08-15T06:05:31.494Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-redis-reactive",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-redis-reactive.openvex.json",
+      "modified": "2026-08-15T06:06:19.773Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-data-rest",
+      "location": "maven/org.springframework.boot:spring-boot-starter-data-rest.openvex.json",
+      "modified": "2026-08-15T06:06:50.883Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-freemarker",
+      "location": "maven/org.springframework.boot:spring-boot-starter-freemarker.openvex.json",
+      "modified": "2026-08-15T06:04:53.848Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-graphql",
+      "location": "maven/org.springframework.boot:spring-boot-starter-graphql.openvex.json",
+      "modified": "2026-08-15T06:04:26.999Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-groovy-templates",
+      "location": "maven/org.springframework.boot:spring-boot-starter-groovy-templates.openvex.json",
+      "modified": "2026-08-15T06:06:55.256Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-hateoas",
+      "location": "maven/org.springframework.boot:spring-boot-starter-hateoas.openvex.json",
+      "modified": "2026-08-15T06:07:07.269Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-integration",
+      "location": "maven/org.springframework.boot:spring-boot-starter-integration.openvex.json",
+      "modified": "2026-08-15T06:04:05.852Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-jdbc",
+      "location": "maven/org.springframework.boot:spring-boot-starter-jdbc.openvex.json",
+      "modified": "2026-08-15T06:05:50.933Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-jersey",
+      "location": "maven/org.springframework.boot:spring-boot-starter-jersey.openvex.json",
+      "modified": "2026-08-15T06:06:31.467Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-jetty",
+      "location": "maven/org.springframework.boot:spring-boot-starter-jetty.openvex.json",
+      "modified": "2026-08-15T06:03:50.338Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-jooq",
+      "location": "maven/org.springframework.boot:spring-boot-starter-jooq.openvex.json",
+      "modified": "2026-08-15T06:03:54.137Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-json",
+      "location": "maven/org.springframework.boot:spring-boot-starter-json.openvex.json",
+      "modified": "2026-08-15T06:05:19.557Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-jta-atomikos",
+      "location": "maven/org.springframework.boot:spring-boot-starter-jta-atomikos.openvex.json",
+      "modified": "2026-08-12T18:08:19.491Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-log4j2",
+      "location": "maven/org.springframework.boot:spring-boot-starter-log4j2.openvex.json",
+      "modified": "2026-08-15T06:06:58.974Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-logging",
+      "location": "maven/org.springframework.boot:spring-boot-starter-logging.openvex.json",
+      "modified": "2026-08-15T06:05:23.659Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-mail",
+      "location": "maven/org.springframework.boot:spring-boot-starter-mail.openvex.json",
+      "modified": "2026-08-15T06:04:30.922Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-mustache",
+      "location": "maven/org.springframework.boot:spring-boot-starter-mustache.openvex.json",
+      "modified": "2026-08-15T06:02:33.698Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-oauth2-authorization-server",
+      "location": "maven/org.springframework.boot:spring-boot-starter-oauth2-authorization-server.openvex.json",
+      "modified": "2026-08-15T06:05:52.92Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-oauth2-client",
+      "location": "maven/org.springframework.boot:spring-boot-starter-oauth2-client.openvex.json",
+      "modified": "2026-08-15T06:07:03.148Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-oauth2-resource-server",
+      "location": "maven/org.springframework.boot:spring-boot-starter-oauth2-resource-server.openvex.json",
+      "modified": "2026-08-15T06:05:57.066Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-parent",
+      "location": "maven/org.springframework.boot:spring-boot-starter-parent.openvex.json",
+      "modified": "2026-08-15T06:05:35.287Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-pulsar",
+      "location": "maven/org.springframework.boot:spring-boot-starter-pulsar.openvex.json",
+      "modified": "2026-08-15T06:03:17.877Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-pulsar-reactive",
+      "location": "maven/org.springframework.boot:spring-boot-starter-pulsar-reactive.openvex.json",
+      "modified": "2026-08-15T06:04:56.364Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-quartz",
+      "location": "maven/org.springframework.boot:spring-boot-starter-quartz.openvex.json",
+      "modified": "2026-08-15T06:05:00.104Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-reactor-netty",
+      "location": "maven/org.springframework.boot:spring-boot-starter-reactor-netty.openvex.json",
+      "modified": "2026-08-15T06:05:39.093Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-rsocket",
+      "location": "maven/org.springframework.boot:spring-boot-starter-rsocket.openvex.json",
+      "modified": "2026-08-15T06:06:47.115Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-security",
+      "location": "maven/org.springframework.boot:spring-boot-starter-security.openvex.json",
+      "modified": "2026-08-15T06:02:37.681Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-test",
+      "location": "maven/org.springframework.boot:spring-boot-starter-test.openvex.json",
+      "modified": "2026-08-15T06:02:56.912Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-thymeleaf",
+      "location": "maven/org.springframework.boot:spring-boot-starter-thymeleaf.openvex.json",
+      "modified": "2026-08-15T06:04:09.948Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-tomcat",
+      "location": "maven/org.springframework.boot:spring-boot-starter-tomcat.openvex.json",
+      "modified": "2026-08-15T06:03:01.069Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-undertow",
+      "location": "maven/org.springframework.boot:spring-boot-starter-undertow.openvex.json",
+      "modified": "2026-08-15T06:06:23.577Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-validation",
+      "location": "maven/org.springframework.boot:spring-boot-starter-validation.openvex.json",
+      "modified": "2026-08-15T06:06:27.471Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-web",
+      "location": "maven/org.springframework.boot:spring-boot-starter-web.openvex.json",
+      "modified": "2026-08-15T06:03:21.529Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-web-services",
+      "location": "maven/org.springframework.boot:spring-boot-starter-web-services.openvex.json",
+      "modified": "2026-08-15T06:04:13.649Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-webflux",
+      "location": "maven/org.springframework.boot:spring-boot-starter-webflux.openvex.json",
+      "modified": "2026-08-15T06:03:05.177Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-starter-websocket",
+      "location": "maven/org.springframework.boot:spring-boot-starter-websocket.openvex.json",
+      "modified": "2026-08-15T06:03:08.408Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-test",
+      "location": "maven/org.springframework.boot:spring-boot-test.openvex.json",
+      "modified": "2026-08-15T06:04:34.855Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-test-autoconfigure",
+      "location": "maven/org.springframework.boot:spring-boot-test-autoconfigure.openvex.json",
+      "modified": "2026-08-15T06:04:38.506Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.boot:spring-boot-testcontainers",
+      "location": "maven/org.springframework.boot:spring-boot-testcontainers.openvex.json",
+      "modified": "2026-08-15T06:03:23.556Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security",
+      "location": "maven/org.springframework.security:spring-security.openvex.json",
+      "modified": "2026-04-15T16:02:47.414Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-acl",
+      "location": "maven/org.springframework.security:spring-security-acl.openvex.json",
+      "modified": "2026-05-08T16:42:55.562Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-aspects",
+      "location": "maven/org.springframework.security:spring-security-aspects.openvex.json",
+      "modified": "2026-05-08T16:43:00.757Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-bom",
+      "location": "maven/org.springframework.security:spring-security-bom.openvex.json",
+      "modified": "2026-05-08T16:42:59.06Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-cas",
+      "location": "maven/org.springframework.security:spring-security-cas.openvex.json",
+      "modified": "2026-05-08T16:42:55.934Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-config",
+      "location": "maven/org.springframework.security:spring-security-config.openvex.json",
+      "modified": "2026-05-08T16:42:59.393Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-core",
+      "location": "maven/org.springframework.security:spring-security-core.openvex.json",
+      "modified": "2026-05-08T16:42:57.331Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-crypto",
+      "location": "maven/org.springframework.security:spring-security-crypto.openvex.json",
+      "modified": "2026-05-08T16:43:01.087Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-data",
+      "location": "maven/org.springframework.security:spring-security-data.openvex.json",
+      "modified": "2026-05-08T16:43:01.422Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-ldap",
+      "location": "maven/org.springframework.security:spring-security-ldap.openvex.json",
+      "modified": "2026-05-08T16:42:57.68Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-messaging",
+      "location": "maven/org.springframework.security:spring-security-messaging.openvex.json",
+      "modified": "2026-05-08T16:42:58.018Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-oauth2-client",
+      "location": "maven/org.springframework.security:spring-security-oauth2-client.openvex.json",
+      "modified": "2026-05-08T16:42:59.738Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-oauth2-core",
+      "location": "maven/org.springframework.security:spring-security-oauth2-core.openvex.json",
+      "modified": "2026-05-08T16:42:56.284Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-oauth2-jose",
+      "location": "maven/org.springframework.security:spring-security-oauth2-jose.openvex.json",
+      "modified": "2026-05-08T16:42:56.652Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-oauth2-resource-server",
+      "location": "maven/org.springframework.security:spring-security-oauth2-resource-server.openvex.json",
+      "modified": "2026-05-08T16:43:01.751Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-openid",
+      "location": "maven/org.springframework.security:spring-security-openid.openvex.json",
+      "modified": "2026-05-08T16:42:58.362Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-remoting",
+      "location": "maven/org.springframework.security:spring-security-remoting.openvex.json",
+      "modified": "2026-05-08T16:43:00.087Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-rsocket",
+      "location": "maven/org.springframework.security:spring-security-rsocket.openvex.json",
+      "modified": "2026-05-08T16:43:02.082Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-saml2-service-provider",
+      "location": "maven/org.springframework.security:spring-security-saml2-service-provider.openvex.json",
+      "modified": "2026-05-08T16:43:00.43Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-taglibs",
+      "location": "maven/org.springframework.security:spring-security-taglibs.openvex.json",
+      "modified": "2026-05-08T16:42:58.709Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-test",
+      "location": "maven/org.springframework.security:spring-security-test.openvex.json",
+      "modified": "2026-05-08T16:42:56.981Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework.security:spring-security-web",
+      "location": "maven/org.springframework.security:spring-security-web.openvex.json",
+      "modified": "2026-05-08T16:43:02.426Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring",
+      "location": "maven/org.springframework:spring.openvex.json",
+      "modified": "2026-06-25T06:03:01.096Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-aop",
+      "location": "maven/org.springframework:spring-aop.openvex.json",
+      "modified": "2026-06-25T06:03:07.542Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-aspects",
+      "location": "maven/org.springframework:spring-aspects.openvex.json",
+      "modified": "2026-06-25T06:03:00.557Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-beans",
+      "location": "maven/org.springframework:spring-beans.openvex.json",
+      "modified": "2026-06-25T06:03:04.751Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-context",
+      "location": "maven/org.springframework:spring-context.openvex.json",
+      "modified": "2026-06-25T06:03:04.938Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-context-indexer",
+      "location": "maven/org.springframework:spring-context-indexer.openvex.json",
+      "modified": "2026-06-25T06:03:05.328Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-context-support",
+      "location": "maven/org.springframework:spring-context-support.openvex.json",
+      "modified": "2026-06-25T06:03:06.208Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-core",
+      "location": "maven/org.springframework:spring-core.openvex.json",
+      "modified": "2026-06-25T06:03:05.917Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-expression",
+      "location": "maven/org.springframework:spring-expression.openvex.json",
+      "modified": "2026-06-25T06:03:07.686Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-framework",
+      "location": "maven/org.springframework:spring-framework.openvex.json",
+      "modified": "2026-04-15T16:02:47.305Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-framework-bom",
+      "location": "maven/org.springframework:spring-framework-bom.openvex.json",
+      "modified": "2026-06-25T06:03:05.492Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-instrument",
+      "location": "maven/org.springframework:spring-instrument.openvex.json",
+      "modified": "2026-06-25T06:03:01.703Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-instrument-tomcat",
+      "location": "maven/org.springframework:spring-instrument-tomcat.openvex.json",
+      "modified": "2026-05-09T06:02:04.254Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-jcl",
+      "location": "maven/org.springframework:spring-jcl.openvex.json",
+      "modified": "2026-06-25T06:03:06.85Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-jdbc",
+      "location": "maven/org.springframework:spring-jdbc.openvex.json",
+      "modified": "2026-06-25T06:03:04.122Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-jms",
+      "location": "maven/org.springframework:spring-jms.openvex.json",
+      "modified": "2026-06-25T06:03:01.907Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-messaging",
+      "location": "maven/org.springframework:spring-messaging.openvex.json",
+      "modified": "2026-06-25T06:03:06.99Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-orm",
+      "location": "maven/org.springframework:spring-orm.openvex.json",
+      "modified": "2026-06-25T06:03:04.263Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-oxm",
+      "location": "maven/org.springframework:spring-oxm.openvex.json",
+      "modified": "2026-06-25T06:03:04.403Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-r2dbc",
+      "location": "maven/org.springframework:spring-r2dbc.openvex.json",
+      "modified": "2026-06-25T06:03:01.134Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-test",
+      "location": "maven/org.springframework:spring-test.openvex.json",
+      "modified": "2026-06-25T06:03:07.853Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-tx",
+      "location": "maven/org.springframework:spring-tx.openvex.json",
+      "modified": "2026-06-25T06:03:07.129Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-web",
+      "location": "maven/org.springframework:spring-web.openvex.json",
+      "modified": "2026-06-25T06:03:01.281Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-webflux",
+      "location": "maven/org.springframework:spring-webflux.openvex.json",
+      "modified": "2026-06-25T06:03:06.354Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-webmvc",
+      "location": "maven/org.springframework:spring-webmvc.openvex.json",
+      "modified": "2026-06-25T06:03:00.694Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-webmvc-portlet",
+      "location": "maven/org.springframework:spring-webmvc-portlet.openvex.json",
+      "modified": "2026-05-09T06:02:04.523Z"
+    },
+    {
+      "id": "pkg:maven/org.springframework:spring-websocket",
+      "location": "maven/org.springframework:spring-websocket.openvex.json",
+      "modified": "2026-06-25T06:03:06.488Z"
+    }
+  ],
+  "version": 1,
+  "updated_at": "2026-08-18T08:24:08.535079964Z"
+}

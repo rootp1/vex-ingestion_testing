@@ -1,0 +1,27 @@
+document.tracking.id: CVE-2024-6119
+document.tracking.version: 3
+document.tracking.status: final
+revision_history entries: 3
+last revision: {'date': '2026-08-08T17:12:20+00:00', 'number': '3', 'summary': 'Last generated version'}
+
+known_affected total: 18
+known_not_affected total: 799
+fixed total: 111
+sum: 928
+
+known_not_affected digest-qualified image entries: 773
+fixed digest-qualified image entries: 50
+known_affected digest-qualified image entries: 0
+known_affected has ANY digest-qualified (container image) entry for this CVE: False
+
+repo names appearing in >1 status bucket: 0
+
+repo names with >1 digest within known_not_affected alone: 179
+
+Example -- repo 'openshift4/aws-kms-encryption-provider-rhel9' at 4 digests:
+  9Base-RHOSE-4.16:openshift4/aws-kms-encryption-provider-rhel9@sha256:1d914e9e28bb05d936c22d20f021d31cf806285d5e4ae0e47c47b50c90c7e8de_ppc64le
+  9Base-RHOSE-4.16:openshift4/aws-kms-encryption-provider-rhel9@sha256:7460081ddaf409891100dad0bbf264e09a2ed75a5daab332610837c6091ca6ce_amd64
+  9Base-RHOSE-4.16:openshift4/aws-kms-encryption-provider-rhel9@sha256:a016229598f9b0d366d745218b71c543e7f9593270d2cd84c33f867d12ebb567_s390x
+  9Base-RHOSE-4.16:openshift4/aws-kms-encryption-provider-rhel9@sha256:a0de020a0ccd742c5e9f8d2d84f4b6d4db25556c10eca46a2ac0bc4993aff352_arm64
+
+All of the above product_ids would match glob pattern ['registry.redhat.io/*', 'registry.access.redhat.com/*'] indiscriminately -- glob matching cannot see which specific digest a status bucket actually covers, only the repo name. Digest/PURL matching against the statement's own listed products is required to know whether a given scanned image's exact digest is actually covered, or simply absent from the document entirely.

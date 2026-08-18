@@ -1,0 +1,17 @@
+=== RUN   TestNewProcessor_NonexistentPath_Fails
+    processor_test.go:52: actual error: unable to create VEX processor: VEX document "/nonexistent/path.json" not found
+--- PASS: TestNewProcessor_NonexistentPath_Fails (0.00s)
+=== RUN   TestNewProcessor_ValidOpenVEX_Succeeds
+--- PASS: TestNewProcessor_ValidOpenVEX_Succeeds (0.00s)
+=== RUN   TestApplyVEX_MixedFormats_OpenVEXFirst_Succeeds
+time="2026-08-18T17:11:28+05:30" level=info msg="Abriendo CSAF"
+    processor_test.go:97: ApplyVEX with [openvex, csaf] succeeded with no error -- go-vex's Open() auto-converted the CSAF file rather than failing
+--- PASS: TestApplyVEX_MixedFormats_OpenVEXFirst_Succeeds (0.00s)
+=== RUN   TestApplyVEX_MixedFormats_CSAFFirst_Fails
+    processor_test.go:121: actual error: parsing vex document: error loading VEX CSAF document: 'document' is missing
+--- PASS: TestApplyVEX_MixedFormats_CSAFFirst_Fails (0.00s)
+=== RUN   TestApplyVEX_OpenVEXFirst_WithGarbageSecondDoc_DetectsFormatFailure
+    processor_test.go:149: actual error: parsing vex document: merging vex documents: opening garbage_fixture.json: unable to detect document format reading garbage_fixture.json
+--- PASS: TestApplyVEX_OpenVEXFirst_WithGarbageSecondDoc_DetectsFormatFailure (0.00s)
+PASS
+ok  	vexprocessor-behavior-test	(cached)

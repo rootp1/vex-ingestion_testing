@@ -1,0 +1,13 @@
+file                  doc_id          version revisions #vulns  has_stmt_id has_purl  #prods  #purl
+samples/cve-2024-0056.jsonCVE-2024-0056   3       3         1       False       True      385     378
+samples/cve-2024-0057.jsonCVE-2024-0057   3       3         1       False       True      385     378
+samples/cve-2024-0109.jsonCVE-2024-0109   3       3         1       False       True      5       3
+samples/cve-2024-3094.jsonCVE-2024-3094   3       3         1       False       True      12      6
+samples/cve-2024-6387.jsonCVE-2024-6387   3       3         1       False       True      2163    2143
+
+--- Chainguard Libraries OpenVEX (real, live fetch) ---
+document @id: https://openvex.dev/docs/public/vex-4650f5ad2ce6c9bbd73798540155f8a00607cc14ccaf567c64195993f83e836b
+document version: 1
+has document-level revision_history field: False
+statement vuln=CGA-7vmq-pmg8-4rqv   status=fixed      has_id_field=False keys=['last_updated', 'products', 'status', 'timestamp', 'vulnerability']
+statement vuln=CGA-gv6f-mxg7-c8f6   status=fixed      has_id_field=False keys=['last_updated', 'products', 'status', 'timestamp', 'vulnerability']

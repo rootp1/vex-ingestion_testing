@@ -1,0 +1,7 @@
+📦 Supply Chain Security Related artifacts for an image: cgr.dev/chainguard/wolfi-base:latest
+└── 💾 Attestations for an image tag: cgr.dev/chainguard/wolfi-base:sha256-0a8fd427de5882aed77471b0a432c3675eda6b6a0ae952b5d640b46da628cdbe.att
+   ├── 🍒 sha256:7e2d0ede6f74c713eaa371727fc094ac745e1e6b83e0e655b7e0b223a3399d64
+   ├── 🍒 sha256:84e14cfe71433a4cd34aa43a74c4ca1712bbd3b09eeef9bdf9a7d3643bdac0f3
+   └── 🍒 sha256:6e390bbedf96c935ca8935264de04db871ad1b956e692ed4d9f11b9df8e07320
+└── 🔐 Signatures for an image tag: cgr.dev/chainguard/wolfi-base:sha256-0a8fd427de5882aed77471b0a432c3675eda6b6a0ae952b5d640b46da628cdbe.sig
+   └── 🍒 sha256:fead77c01d705c51c9a9327f7e63070fdac3e2066786f583e5ab07f3d7994234

@@ -1,0 +1,61 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-4650f5ad2ce6c9bbd73798540155f8a00607cc14ccaf567c64195993f83e836b",
+  "author": "Chainguard Team",
+  "version": 1,
+  "supplier": "Chainguard",
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CGA-7vmq-pmg8-4rqv",
+        "aliases": [
+          "CGA-jv2v-w8c5-pw44",
+          "CVE-2024-34069",
+          "GHSA-2g68-c3qc-8985"
+        ]
+      },
+      "products": [
+        {
+          "identifiers": {
+            "purl": "pkg:pypi/werkzeug@2.2.3%2Bcgr.1"
+          }
+        },
+        {
+          "identifiers": {
+            "purl": "pkg:pypi/werkzeug@2.3.7%2Bcgr.1"
+          }
+        },
+        {
+          "identifiers": {
+            "purl": "pkg:pypi/werkzeug@3.0.2%2Bcgr.1"
+          }
+        }
+      ],
+      "status": "fixed",
+      "timestamp": "2025-10-23T06:01:33.081Z",
+      "last_updated": "2025-12-03T06:02:10.106Z"
+    },
+    {
+      "vulnerability": {
+        "name": "CGA-gv6f-mxg7-c8f6",
+        "aliases": [
+          "CGA-75jp-v7vc-4hxj",
+          "CVE-2023-25577",
+          "GHSA-xg9f-g7g7-2323"
+        ]
+      },
+      "products": [
+        {
+          "identifiers": {
+            "purl": "pkg:pypi/werkzeug@2.2.2%2Bcgr.1"
+          }
+        }
+      ],
+      "status": "fixed",
+      "timestamp": "2025-10-23T06:01:33.036Z",
+      "last_updated": "2025-10-23T06:01:33.036Z"
+    }
+  ],
+  "timestamp": "2025-10-23T06:01:33Z",
+  "last_updated": "2025-12-03T06:02:10Z"
+}

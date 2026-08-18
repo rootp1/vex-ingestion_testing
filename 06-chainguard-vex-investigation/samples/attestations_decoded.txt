@@ -1,0 +1,15 @@
+--- attestation 1 ---
+payloadType: application/vnd.in-toto+json
+predicateType: https://slsa.dev/provenance/v1
+subject: [{'name': 'cgr.dev/chainguard/wolfi-base', 'digest': {'sha256': '0a8fd427de5882aed77471b0a432c3675eda6b6a0ae952b5d640b46da628cdbe'}}]
+
+--- attestation 2 ---
+payloadType: application/vnd.in-toto+json
+predicateType: https://spdx.dev/Document
+subject: [{'name': 'cgr.dev/chainguard/wolfi-base', 'digest': {'sha256': '0a8fd427de5882aed77471b0a432c3675eda6b6a0ae952b5d640b46da628cdbe'}}]
+
+--- attestation 3 ---
+payloadType: application/vnd.in-toto+json
+predicateType: https://apko.dev/image-configuration
+subject: [{'name': 'cgr.dev/chainguard/wolfi-base', 'digest': {'sha256': '0a8fd427de5882aed77471b0a432c3675eda6b6a0ae952b5d640b46da628cdbe'}}]
+

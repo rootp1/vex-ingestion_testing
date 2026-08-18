@@ -1,0 +1,5 @@
+# Raw fetched artifacts from measure.sh — regenerable, not checked in.
+changes.csv
+all_paths.txt
+random_paths.txt
+head_sizes.txt

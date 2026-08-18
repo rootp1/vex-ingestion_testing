@@ -1,0 +1,37 @@
+{
+  "document": {
+    "category": "csaf_vex",
+    "csaf_version": "2.0",
+    "publisher": { "category": "vendor", "name": "vex-ingestion-testing", "namespace": "https://example.com" },
+    "title": "Test CSAF VEX for CVE-2026-40200",
+    "tracking": {
+      "id": "TEST-VEX-2026-40200",
+      "status": "final",
+      "version": "1",
+      "initial_release_date": "2026-08-18T00:00:00Z",
+      "current_release_date": "2026-08-18T00:00:00Z",
+      "revision_history": [
+        { "date": "2026-08-18T00:00:00Z", "number": "1", "summary": "Initial release" }
+      ]
+    }
+  },
+  "product_tree": {
+    "full_product_names": [
+      {
+        "product_id": "musl-alpine-3.18",
+        "name": "musl 1.2.4-r3 (alpine 3.18)",
+        "product_identification_helper": {
+          "purl": "pkg:apk/alpine/musl@1.2.4-r3?arch=aarch64&distro=alpine-3.18.12"
+        }
+      }
+    ]
+  },
+  "vulnerabilities": [
+    {
+      "cve": "CVE-2026-40200",
+      "product_status": {
+        "known_not_affected": ["musl-alpine-3.18"]
+      }
+    }
+  ]
+}
