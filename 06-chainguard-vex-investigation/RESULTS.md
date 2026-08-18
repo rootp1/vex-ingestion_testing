@@ -137,3 +137,9 @@ mandatory e2e feed and to re-scope the Chainguard example to
   stub source, the commit metadata, cosign's decoded attestations, both
   Chainguard doc pages, the Libraries OpenVEX index + werkzeug document, the
   OSV.dev cross-check response, and the Grype PR metadata.
+- `vex_verification.mp4` / `.gif` / `.cast` - a 24s live screen recording of
+  step 6 above being re-run for real: fetching the live Chainguard Libraries
+  index, pulling the real `werkzeug` OpenVEX statement, and cross-checking
+  `CVE-2024-34069` against OSV.dev's independent API. `.cast` is the raw
+  asciinema recording (replay with `asciinema play vex_verification.cast`);
+  `.gif`/`.mp4` are rendered from it.
